@@ -34,7 +34,7 @@ This project demonstrates a chatbot capable of answering user questions using ad
 	- Focused on improving runtime performance and reducing latency in generating answers.
 ​
 
-See this nootebok for specific details: [/src/qa-chatbot-llm.ipynb]() 
+See this nootebok for specific details: [qa-chatbot-llm.ipynb](/src/qa-chatbot-llm.ipynb) 
 
 ![QA Chatbot Output 1](/img/qa-chatbot-llm-output-1.png)
 
